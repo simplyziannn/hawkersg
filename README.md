@@ -85,7 +85,7 @@ Each sub-project has its own README with detailed setup instructions. The sectio
 
 1. **Clone the repository**
    ```bash
-   git clone <https://github.com/softwarelab3/2006-SCED-103/tree/main>
+   git clone <https://github.com/simplyziannn/hawkersg/tree/main>
    cd hawkersg
    ```
 2. **Start the backend API**
