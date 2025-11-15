@@ -1,0 +1,47 @@
+# Python
+# ------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+# ------------------------------------------------------------
+venv/
+env/
+.venv/
+.direnv/
+
+# FastAPI / Uvicorn / Development
+# ------------------------------------------------------------
+# SQLite database file
+*.db
+*.sqlite3
+/sql_app.db
+db.sqlite3
+
+.env
+
+# FastAPI token cache file
+.onemap_token_cache.json
+
+# Logs and debug files
+*.log
+.DS_Store
+
+# IDE and Editor Files
+# ------------------------------------------------------------
+# Visual Studio Code
+.vscode/
+
+# PyCharm/IntelliJ
+.idea/
+
+# Jupyter Notebook Files
+.ipynb_checkpoints
+
+# Build Artifacts
+# ------------------------------------------------------------
+dist/
+build/
+*.egg-info/

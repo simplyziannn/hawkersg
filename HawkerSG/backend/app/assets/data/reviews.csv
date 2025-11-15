@@ -1,0 +1,7 @@
+id,consumer_id,target_type,target_id,star_rating,description,images,created_at,updated_at
+1,1,business,1,5,nice!,,2025-10-05T08:06:14Z,2025-10-05T08:06:14Z
+2,3,business,3,5,very nice!,string,2025-10-10T11:47:47Z,2025-10-10T11:47:47Z
+3,1,business,3,3,mid!,string,2025-10-10T11:49:31Z,2025-10-10T11:49:31Z
+4,3,business,3,4,try!,string,2025-10-10T12:19:20Z,2025-10-10T12:19:20Z
+5,1,business,10,1,shit,string,2025-10-10T14:05:14Z,2025-10-10T14:05:14Z
+6,2,business,0,1,,string,2025-10-10T23:35:59Z,2025-10-10T23:35:59Z
